@@ -8,4 +8,4 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=800&color=CC24F7&lines=Skills)](https://git.io/typing-svg)
 
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
