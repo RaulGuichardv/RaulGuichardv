@@ -15,8 +15,7 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 ### 🧠 Machine Learning & AI  
-[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
-*(Also working with: Scikit-learn — not available on skillicons.dev)*
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)  
 
 ### 🛢️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
