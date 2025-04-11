@@ -1,4 +1,7 @@
 ## Hi there, I'm Raúl 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=CC24F7&center=true&vCenter=true&width=1600&lines=Data+Scientist+)](https://git.io/typing-svg)
 
 I'm a Computer Systems Engineering student passionate about Artificial Intelligence, Machine Learning, and building cool stuff with Python.
+
+- 🧠 I’m currently learning **Machine Learning** and **Neural Networks**  
+- 🐳 I’m exploring tools like **Docker** and improving my Git/GitHub workflow  
+- 🤝 I’m looking to collaborate on cool **AI** and **Python automation** projects  
