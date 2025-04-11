@@ -8,7 +8,8 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 
 ## Skills
 - **languages**
-  - [![My Skills](https://skillicons.dev/icons?i=css,html,js,java,nodejs,py,react)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=css,html,js,java,nodejs,py,react)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
