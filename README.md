@@ -6,13 +6,20 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 - 🐳 I’m exploring tools like **Docker** and improving my Git/GitHub workflow  
 - 🤝 I’m looking to collaborate on cool **AI** and **Python automation** projects  
 
-## Skills
-- **languages**
+## 💻 Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=css,html,js,java,nodejs,py,react)](https://skillicons.dev)
+### 🧑‍💻 Languages  
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
 
+### ⚙️ Frameworks & Libraries  
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+
+### 🧠 Machine Learning & AI  
+[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
+*(Also working with: Scikit-learn — not available on skillicons.dev)*
+
+### 🛢️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,github,git,)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
+### 🛠️ Tools & Platforms  
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
