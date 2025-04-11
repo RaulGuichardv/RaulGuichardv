@@ -7,4 +7,4 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 - 🤝 I’m looking to collaborate on cool **AI** and **Python automation** projects  
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,java,nodejs,py,react)](https://skillicons.dev)
