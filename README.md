@@ -6,5 +6,5 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 - 🐳 I’m exploring tools like **Docker** and improving my Git/GitHub workflow  
 - 🤝 I’m looking to collaborate on cool **AI** and **Python automation** projects  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=800&color=CC24F7&lines=Skills)](https://git.io/typing-svg)
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
