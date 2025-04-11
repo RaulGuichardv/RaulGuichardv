@@ -12,7 +12,7 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,vite)](https://skillicons.dev)
 
 ### 🧠 Machine Learning & AI  
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)  
@@ -20,5 +20,5 @@ I'm a Computer Systems Engineering student passionate about Artificial Intellige
 ### 🛢️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-### 🛠️ Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github)](https://skillicons.dev)
+### 🧰 Tools & Platforms  
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,figma,aws,linkedin,discord)](https://skillicons.dev)
